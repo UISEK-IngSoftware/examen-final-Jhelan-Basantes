@@ -1,0 +1,21 @@
+.character-card {
+  cursor: pointer;
+  margin: 10px;
+}
+
+.character-card img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.character-card ion-card-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.character-card ion-card-subtitle {
+  font-size: 0.9rem;
+  color: #666;
+}
